@@ -1,0 +1,14 @@
+AudioStreamPlayer3D
+WorldEnvironment
+Label
+MeshInstance3D
+Node3D
+Node
+ColorRect
+CanvasLayer
+CollisionShape3D
+Area3D
+DirectionalLight3D
+Camera3D
+CharacterBody3D
+StaticBody3D
